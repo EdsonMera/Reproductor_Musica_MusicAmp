@@ -1,6 +1,6 @@
 # Reproductor_Musica_MusicAmp
 
-INSTITUTO POLITECNICO NACIONAL
+#INSTITUTO POLITECNICO NACIONAL
 
 Escuela Superior de Ingeniería Mecánica y Eléctrica
 Unidad Culhuacán
