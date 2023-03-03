@@ -12,7 +12,7 @@ Estructura de datos
 --> Reproductor de Música MusicAmp
 
 Desarrollado por:
-Mera Orozco Edson Guadalupe
-Fonseca Chan Julián
+  * Mera Orozco Edson Guadalupe           
+  * Fonseca Chan Julián                   
 
 27 de Octubre de 2020
